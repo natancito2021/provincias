@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+body{
+    
+        background-image: url(imagenes/cerro.jpg);
+        
+        background-attachment: fixed;
+        background-size: cover;
+        
+}
+h1{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 3em;
+    letter-spacing: 5px;
+    text-align: center;
+    
+}
+.fondo-jujuy {
+    background: rgb(121,9,42);
+background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+color: rgb(0, 0, 0);
+}
+.fondo-titulo {
+    font-family: 'Stick No Bills', sans-serif;
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+}
+.fondo-filas{
+    background: rgb(121,9,42);
+background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+}
+p {
+    text-align: center;
+color: rgb(0, 0, 0);
+background-color: rgb(238, 225, 225);
+font-family: 'Gemunu Libre', sans-serif;
+font-size: 1.5em;
+}
